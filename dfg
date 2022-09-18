@@ -584,3 +584,5 @@ http://ssx.isabelii.online:8081/noticias/TELEAMAZONAS46546854/chunks.m3u8?nimble
 #EXT-X-PART:DURATION=1.001,URI="http://ssx.isabelii.online:8081/noticias/TELEAMAZONAS46546854/chunks.m3u8?nimblesessionid=1178506&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDIyIDg6NDg6NDcgQU0maGFzaF92YWx1ZT15RzJDZGNlU1JFVmtMdDRMMnBhT3lnPT0mdmFsaWRtaW51dGVzPTIyMA=="
 #EXT-X-PART:DURATION=1.001,URI="http://ssx.isabelii.online:8081/noticias/TELEAMAZONAS46546854/chunks.m3u8?nimblesessionid=1178506&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDIyIDg6NDg6NDcgQU0maGFzaF92YWx1ZT15RzJDZGNlU1JFVmtMdDRMMnBhT3lnPT0mdmFsaWRtaW51dGVzPTIyMA=="
 #EXT-X-PRELOAD-HINT:TYPE=PART,URI="http://ssx.isabelii.online:8081/noticias/TELEAMAZONAS46546854/chunks.m3u8?nimblesessionid=1178506&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDIyIDg6NDg6NDcgQU0maGFzaF92YWx1ZT15RzJDZGNlU1JFVmtMdDRMMnBhT3lnPT0mdmFsaWRtaW51dGVzPTIyMA=="
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KNr815G/tntseries.png" tvg-group="CINE Y SERIES", TNT SERIES
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1035.ts
